@@ -18,3 +18,4 @@ const Gemini = () => {
 }
 
 export default Gemini;
+
